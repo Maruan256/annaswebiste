@@ -34,7 +34,7 @@ export default function Home() {
         <div className={`home-glitch-container ${isEntering ? "entering" : ""}`}>
           {/* Clear Retro Font with Animated 3D Text Shadow Effect */}
           <div style={{ marginBottom: "1.5rem", position: "relative" }}>
-            <h1 className="retro-3d-text">ANNA SCHMIDT</h1>
+            <h1 className="retro-3d-text">ANNA CHWIA&#321;KOWSKA</h1>
           </div>
 
           {/* Smaller subtitle with matching 3D effect */}

@@ -101,7 +101,7 @@ export default function Portfolio() {
           <ArrowLeft size={20} />
           <span>Back</span>
         </Link>
-        <h1 className="portfolio-title">PORTFOLIO</h1>
+        <h1 className="portfolio-title">ANNA CHWIA&#321;KOWSKA</h1>
       </div>
 
       <div className={`portfolio-mosaic ${expandedId ? `expanded-${expandedId}` : ""}`}>
